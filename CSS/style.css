@@ -1,0 +1,37 @@
+body{
+    background-color: coral;
+}
+
+.logo{
+    background-color: brown;
+    width: 300px;
+    height: 300px;
+    float: left;
+    
+    
+}
+.Cuerpo{
+    background-color: blue;
+    width: 900px;
+    height: 500px;
+    float: left;
+    text-align: center;
+
+}
+.parteDEabajo{
+    background-color: darkgreen;
+    width: 900px;
+    height: 300px;
+    float: left;
+    text-align: center;
+}
+.contenedor{
+    width: 900px;
+    height: 1000px;
+    border: black 4px dashed;
+    margin: 0px auto;
+}
+.ElLogo{
+text-align: center;
+font-size: 80px;
+}
