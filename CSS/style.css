@@ -10,23 +10,29 @@ body{
     
     
 }
+.Busqueda{
+    background-color: gold;
+    width: 1000px;
+    height: 50px;
+    float: left;
+    text-align: center;
+}
 .Cuerpo{
     background-color: blue;
-    width: 900px;
+    width: 1000px;
     height: 500px;
     float: left;
     text-align: center;
-
 }
 .Pie{
     background-color: darkgreen;
-    width: 900px;
+    width: 1000px;
     height: 300px;
     float: left;
     text-align: center;
 }
 .contenedor{
-    width: 900px;
+    width: 1000px;
     height: 1000px;
     border: black 4px dashed;
     margin: 0px auto;
