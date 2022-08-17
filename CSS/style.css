@@ -2,7 +2,7 @@ body{
     background-color: coral;
 }
 
-.logo{
+.TH{
     background-color: brown;
     width: 300px;
     height: 300px;
@@ -18,7 +18,7 @@ body{
     text-align: center;
 
 }
-.parteDEabajo{
+.Pie{
     background-color: darkgreen;
     width: 900px;
     height: 300px;
