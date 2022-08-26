@@ -19,7 +19,7 @@ body{
     text-align: center;
     font-size: 80px;
     color: coral;
-    
+
     margin: 0;
  }
 
@@ -52,6 +52,6 @@ h1{
 .contenedor{
     width: 1000px;
     height: 1050px;
-    border: black 4px dashed;
+    
     margin: 0px auto;
 }
