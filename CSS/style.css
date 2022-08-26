@@ -10,12 +10,22 @@ body{
     
     
 }
-h1{
-    background: linear-gradient(90deg, #ff0000,#ffff00,#ff00f3, #0033ff, #ff00c4, #ff0000);
-    background-size: 400%;
-    font-size: 70%;
+:root{
+    --gradient: linear-gradient(45deg,
+    #f10000,#fd076d,#a714bb,#7024fd, #1014f8
+    );
+}
+.ElLogo{
+    text-align: center;
+    font-size: 80px;
+    color: coral;
     
+    margin: 0;
+ }
 
+h1{
+   padding: 0.5em 1.5em;
+   background-image: var(--gradient);
 }
 
 .Busqueda{
@@ -44,8 +54,4 @@ h1{
     height: 1050px;
     border: black 4px dashed;
     margin: 0px auto;
-}
-.ElLogo{
-text-align: center;
-font-size: 80px;
 }
