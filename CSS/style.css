@@ -10,6 +10,14 @@ body{
     
     
 }
+h1{
+    background: linear-gradient(90deg, #ff0000,#ffff00,#ff00f3, #0033ff, #ff00c4, #ff0000);
+    background-size: 400%;
+    font-size: 70%;
+    
+
+}
+
 .Busqueda{
     background-color: gold;
     width: 1000px;
