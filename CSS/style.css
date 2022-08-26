@@ -19,7 +19,7 @@ body{
     text-align: center;
     font-size: 90px;
     color: coral;
-    
+
     margin: 0;
  }
 
@@ -51,7 +51,44 @@ h1{
 }
 .contenedor{
     width: 1000px;
-    height: 1050px;
-    
+    height: 1500px;
+    border:black 4px dashed;
     margin: 0px auto;
+}
+
+#Perfil1{
+    background-color: rgb(100, 0, 0);
+    color: #1014f8;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 300px;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+#Perfil2{
+    background-color: rgb(61, 214, 0);
+    color: #3310f8;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 300px;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+#Perfil3{
+    background-color: rgb(233, 21, 21);
+    color: #0039f3;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 300px;
+    height: 100px;
+    float: left;
+    text-align: center;
 }
