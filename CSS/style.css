@@ -56,39 +56,3 @@ h1{
     margin: 0px auto;
 }
 
-#Perfil1{
-    background-color: rgb(100, 0, 0);
-    color: #1014f8;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    width: 333px;
-    height: 150px;
-    float: left;
-    text-align: center;
-}
-#Perfil2{
-    background-color: rgb(61, 214, 0);
-    color: #3310f8;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    width: 333px;
-    height: 150px;
-    float: left;
-    text-align: center;
-}
-#Perfil3{
-    background-color: rgb(233, 21, 21);
-    color: #0039f3;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    width: 333px;
-    height: 150px;
-    float: left;
-    text-align: center;
-}
