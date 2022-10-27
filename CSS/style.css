@@ -21,14 +21,14 @@ section .row{
 }
 i{
     color: rgba(0, 0, 0, 0);
+    transition: 1s;
+    padding: 0 5px;
 
 }
 i:hover{
     color: #0f0;
     text-shadow: 0 0 120px #0f0;
-    transition: 1s;
-    padding: 0 5px;
-    
+
 }
 
 body{
