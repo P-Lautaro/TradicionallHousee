@@ -23,6 +23,8 @@ i{
     color: rgba(0, 0, 0, 0);
     transition: 1s;
     padding: 0 5px;
+    user-select: none;
+    cursor: default;
 
 }
 i:hover{
