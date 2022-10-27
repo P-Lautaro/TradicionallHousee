@@ -15,11 +15,19 @@ section .row{
     position: relative;
     width: 100%;
     display: flex;
+    padding: 10px 0;
+    white-space: nowrap;
+    font-size: 64px;
 }
 i{
-    color: #fff;
+    color: rgba(0, 0, 0, 0);
 
 }
+i:hover{
+    color: #0f0;
+    text-shadow: 0 0 120px #0f0;
+}
+
 body{
     background-color: #111;
 }
