@@ -22,7 +22,7 @@ section .row{
     transform: rotate(-30deg);
 }
 i{
-    color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.5);
     transition: 1s;
     padding: 0 5px;
     user-select: none;
@@ -30,6 +30,7 @@ i{
 
 }
 i:hover{
+    transition: 0s;
     color: #0f0;
     text-shadow: 0 0 120px #0f0;
 
@@ -61,11 +62,11 @@ section .row div:nth-child(2){
 
 
 section .row:nth-child(even) div{
-    animation: animate1 80s linear infinite;
+    animation: animate3 80s linear infinite;
     animation-delay: -80s;
 }
 section .row:nth-child(even) div:nth-child(2){
-    animation: animate2 80s linear infinite;
+    animation: animate4 80s linear infinite;
     animation-delay: -40s;
 }
 @keyframes animate3{
