@@ -8,6 +8,10 @@ section{
     height: 100%;
     background: #111;
 }
+i{
+    color: #fff;
+    
+}
 body{
     background-color: coral;
 }
