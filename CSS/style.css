@@ -11,6 +11,7 @@ body{
     height: 130%;
     object-fit: cover;
     position: absolute;
+    top: 0;
 }
 
 
