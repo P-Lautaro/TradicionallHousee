@@ -7,7 +7,7 @@ body{
     min-height: 500px;
 }
 .carousel .carousel-item img{
-    width: 130%;
+    width: 230%;
     height: 130%;
     object-fit: cover;
     position: absolute;
