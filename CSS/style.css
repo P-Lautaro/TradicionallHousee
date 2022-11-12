@@ -44,7 +44,7 @@ body{
     
 }
 :root{
-    --gradient: linear-gradient(45deg,
+    --gradient: linear-gradient(135deg,
     #f10000,#fd076d,#a714bb,#7024fd, #1014f8
     );
 }
