@@ -1,5 +1,8 @@
 body{
     background-image: linear-gradient(135deg, #f10000,#fd076d,#a714bb,#7024fd, #1014f8);
+    background-size: 500%;
+    
+
 }
 
 @keyframes fanimado{
