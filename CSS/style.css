@@ -9,6 +9,7 @@ body{
 .carousel .carousel-item img{
     width: 130%;
     height: 130%;
+    object-fit: cover;
 }
 
 
