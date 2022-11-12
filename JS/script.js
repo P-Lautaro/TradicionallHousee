@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () =>{
     const elementosCarousel = document.querySelectorAll('.carousel');
-    Map.Carousel.init(elementosCarousel,{
+    M.Carousel.init(elementosCarousel, {
         duration:160,
         dist:-80,
         shift:5,
