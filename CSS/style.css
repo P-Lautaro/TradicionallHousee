@@ -3,6 +3,10 @@ body{
     background-size: 500%;
     animation: fanimado 9s infinite ;
 }
+.carousel{
+    min-height: 500px;
+}
+
 
 @keyframes fanimado{
     0%{
