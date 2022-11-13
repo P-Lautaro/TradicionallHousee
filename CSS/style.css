@@ -84,7 +84,13 @@ h1{
     line-height: 60px;
     transition: .3s;
     width: 0;
-
+}
+.boton{
+    width: 40px;
+    height: 40px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
 }
 .Cuerpo{
     background-color: blue;
