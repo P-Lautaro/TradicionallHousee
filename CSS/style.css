@@ -92,12 +92,27 @@ h1{
     
 }
 
+@media screen and (min-width:768px){
+    .Busqueda:hover > .buscar_texto{
+        width: 300px;
+    }
+    
+}
+
+@media screen and (min-width:1024px){
+    .Busqueda:hover > .buscar_texto{
+        width: 500px;
+    }
+    
+}
+
+
 
 .boton{
     width: 40px;
     height: 40px;
     text-decoration: none;
-    color: #fff;
+    color: white;
     font-size: 30px;
 }
 .Cuerpo{
