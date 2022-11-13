@@ -62,11 +62,17 @@ h1{
 }
 
 .Busqueda{
-    background-color: gold;
-    width: 1000px;
-    height: 50px;
-    float: left;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background: #069;
+    padding: 10px;
+    height: 80px;
+    border-radius: 40px;
 }
 .Cuerpo{
     background-color: blue;
