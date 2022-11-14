@@ -115,20 +115,6 @@ h1{
     color: white;
     font-size: 30px;
 }
-.Cuerpo{
-    background-color: blue;
-    width: 1000px;
-    height: 500px;
-    float: left;
-    text-align: center;
-}
-.Pie{
-    background-color: darkgreen;
-    width: 1000px;
-    height: 300px;
-    float: left;
-    text-align: center;
-}
 .contenedor{
     width: 1000px;
     height: 4000px;
