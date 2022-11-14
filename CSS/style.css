@@ -163,3 +163,35 @@ h1{
     width: 100%;
     background-color: black;
 }
+.pie-pagina .grupo1{
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+}
+.pie-pagina .grupo-1 .box h3{
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+.pie-pagina .grupo-1 .box p{
+    color: #fff;
+    margin-bottom: 10px;
+}
+.pie-pagina .grupo-1 .red-social a{
+    display: inline-block;
+    text-decoration: none;
+}
+.pie-pagina .grupo-2{
+    background-color: #f10000;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff;
+}
+
+
+
