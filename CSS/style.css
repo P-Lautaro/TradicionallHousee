@@ -158,3 +158,8 @@ h1{
     opacity: 1;
     visibility: visible;
 }
+
+.pie-pagina{
+    width: 100%;
+    background-color: black;
+}
