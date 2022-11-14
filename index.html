@@ -200,23 +200,24 @@
       </br>
       
 
-      
+      <form class="formulario">
+         <input type="text" id="usuario" placeholder="E-MIAL" autocomplete="off">
+         <input type="password" id="contra" placeholder="Contraseña">
+      </form>
   
       <div class="feedback">
-         <button class="btn">Submit</button>
+         <button class="btn">Enviar</button>
          <script>
             var btn = document.querySelector(".btn");
             var position;
-
             btn.addEventListener("mouseover", function (){
-
-               position ? (position=0) : (position =150);
-               btn.style.transform = `translate(${position}px,0px)`;
-               btn.style.transition = "all 0.3s ease";
+            position ? (position=0) : (position =150);
+            btn.style.transform = `translate(${position}px,0px)`;
+            btn.style.transition = "all 0.3s ease";
             });
          </script>
       </div>
-      
+     
       
       
       
